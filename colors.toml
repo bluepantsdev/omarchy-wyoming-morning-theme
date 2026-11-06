@@ -1,0 +1,35 @@
+# Wyoming Morning: pre-dawn slate over the Tetons, first light on the granite.
+mode = "dark"
+
+accent = "#eb922c"
+selection = "#303a4c"
+muted = "#5c6778"
+
+background = "#151b26"
+dark_background = "#10151e"
+darker_background = "#0b0f16"
+lighter_background = "#232c3b"
+
+foreground = "#e4ddd0"
+dark_foreground = "#8a94a3"
+light_foreground = "#cfc8bb"
+bright_foreground = "#f4eee3"
+
+red = "#df7a6d"
+yellow = "#edc27a"
+orange = "#e8945a"
+green = "#a3b58c"
+cyan = "#8dbdb3"
+blue = "#8ba8cf"
+magenta = "#b89cc9"
+brown = "#a06841"
+
+bright_red = "#eb9a8e"
+bright_yellow = "#f5d59c"
+bright_green = "#bccba7"
+bright_cyan = "#a9d1c8"
+bright_blue = "#a9c0de"
+bright_magenta = "#cfb8dc"
+
+hyprland_active_border = "rgba(eb922cee) rgba(df7a6dee) 45deg"
+hyprland_inactive_border = "rgba(303a4caa)"
